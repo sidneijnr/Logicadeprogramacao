@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace logica
+namespace exercicio5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("olá mundo");
-            Console.ReadKey();
-            
+
         }
     }
 }
