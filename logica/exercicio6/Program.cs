@@ -16,7 +16,6 @@ namespace exercicio6
 
             Console.Write("digite sua altura");
             double altura= double.Parse(Console.ReadLine());
-
             double imc = peso/(altura*altura);
           
             if (imc < 18.5)
