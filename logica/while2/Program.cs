@@ -32,7 +32,7 @@ namespace while2
                 double somamedia = (nota1 + nota2 + nota3 + nota4) / 4;
                 Console.WriteLine($"\na media do aluno foi {somamedia}");
 
-                somaturma += somamedia;
+                somaturma = somamedia+mediaturma;
                 mediaturma = somaturma / i;
 
                 Console.WriteLine($"a media da turma é {mediaturma}");

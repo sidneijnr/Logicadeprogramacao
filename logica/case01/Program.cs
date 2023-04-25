@@ -34,8 +34,6 @@ namespace case01
                 default:
                     novosal = salario + (salario * 0.4);
                     break;
-
-
             }
             Console.WriteLine("\nSalário antigo: {0:c2}" +
                 "\nNovo Salário: {1:c2}" +

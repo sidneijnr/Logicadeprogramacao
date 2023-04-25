@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console", "console\console.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while2", "while2\while2.csproj", "{89E49C00-B77E-47A1-AAAE-5CDEBA85EA55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denovo", "denovo\denovo.csproj", "{7F300488-4406-49C6-8A4A-C6331A658DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMPRAS", "COMPRAS\COMPRAS.csproj", "{B91CADD8-E252-4E38-8B10-5B335D826EC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{89E49C00-B77E-47A1-AAAE-5CDEBA85EA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E49C00-B77E-47A1-AAAE-5CDEBA85EA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E49C00-B77E-47A1-AAAE-5CDEBA85EA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F300488-4406-49C6-8A4A-C6331A658DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F300488-4406-49C6-8A4A-C6331A658DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F300488-4406-49C6-8A4A-C6331A658DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F300488-4406-49C6-8A4A-C6331A658DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91CADD8-E252-4E38-8B10-5B335D826EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91CADD8-E252-4E38-8B10-5B335D826EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91CADD8-E252-4E38-8B10-5B335D826EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91CADD8-E252-4E38-8B10-5B335D826EC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
